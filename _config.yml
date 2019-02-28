@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
@@ -29,4 +30,7 @@ aux_links:
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
+=======
+theme: just-the-docs
+>>>>>>> 4fa877f10793c199e324b71f1a8d6291fc6446a7
 
