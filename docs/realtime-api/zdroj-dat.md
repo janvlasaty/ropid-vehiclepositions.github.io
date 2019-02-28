@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zdroj dat
-permalink: /realtime-api/zdroj-dat
+permalink: /docs/realtime-api/zdroj-dat
 parent: Realtime API
 ---
 
