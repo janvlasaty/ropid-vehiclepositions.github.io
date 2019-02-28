@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Realtime API
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /docs/realtime-api
 ---
 
 # Sekce Realtime API
 
-přístup k datům o polohách vozidel MHD
+Přístup k datům o polohách vozidel MHD
