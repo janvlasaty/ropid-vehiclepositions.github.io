@@ -4,7 +4,7 @@ title: GTFS
 nav_order: 2
 description: "Dokumentace k jízdním řádům ve formátu GTFS."
 has_children: true
-permalink: /gtfs
+permalink: /docs/gtfs
 ---
 
 # Formát GTFS
