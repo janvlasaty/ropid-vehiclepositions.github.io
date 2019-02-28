@@ -1,5 +1,5 @@
 ---
-
+title: Zdroj dat
 permalink: /realtime-api/zdroj-dat
 ---
 
