@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: Úvod
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Dokumentace k poskytovaným datům o polohách vozidel MHD v Praze."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Polohy vozů pražské MHD
 
 Nothing
