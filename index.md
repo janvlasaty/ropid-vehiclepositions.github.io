@@ -6,6 +6,12 @@ description: "Dokumentace k poskytovaným datům o polohách vozidel MHD v Praze
 permalink: /
 ---
 
-# Polohy vozů pražské MHD
+# Dokumentace PID jízdních řádů a aktuálních poloh vozidel
 
-Nothing
+Toto je dokumentace k API Datové platformy HMP - Golemio.
+
+## Partneři
+
+![ROPID](/assets/images/logos/ROPID_logo_grey.svg)
+
+![PID](/assets/images/logos/PID_logo_grey.svg)
