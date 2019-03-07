@@ -12,6 +12,6 @@ Toto je dokumentace k API Datové platformy HMP - Golemio.
 
 ## Partneři
 
-![ROPID](/assets/images/logos/ROPID_logo_grey.svg) { float: left; width: 30%; }
+![ROPID](/assets/images/logos/ROPID_logo_grey.svg =200px)
 
-![PID](/assets/images/logos/PID_logo_grey.svg) { float: left; width: 30%; }
+![PID](/assets/images/logos/PID_logo_grey.svg =200px)
