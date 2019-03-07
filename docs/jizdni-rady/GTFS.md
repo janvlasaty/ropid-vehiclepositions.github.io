@@ -3,6 +3,7 @@ layout: default
 title: Popis formátu GTFS
 description: "Popis tabulek a jejich atributů."
 permalink: /docs/jizdni-rady/GTFS
+nav_order: 1
 parent: Jízdní řády
 ---
 
