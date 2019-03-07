@@ -119,11 +119,31 @@
 //   xl: 1316px
 // );
 
+a {
+  color: #0695d8;
+}
+
+code {
+  color: rgba(216, 105, 4, 1);
+}
+
 .site-title-label {
-  background-color: orange;
+  background-color: #1fc8db;
+  background-image: linear-gradient(141deg, #23e4f9 8.82%, #228bb2 89.5%);
   color: white;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   border-radius: 5px;
   padding: 5px 8px;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 46.25rem) {
+  .navigation {
+   padding-top: 1rem;
+  }
+}
+
+nav {
+  padding-top: 1rem;
 }
