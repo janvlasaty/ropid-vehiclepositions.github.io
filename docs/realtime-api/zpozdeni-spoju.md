@@ -2,6 +2,7 @@
 layout: default
 title: Zpoždění spojů
 permalink: /docs/realtime-api/zpozdeni-spoju
+nav_order: 3
 parent: Realtime API
 ---
 
