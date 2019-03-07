@@ -2,6 +2,7 @@
 layout: default
 title: Další využití
 permalink: /docs/realtime-api/dalsi-vyuziti
+nav_order: 10
 parent: Realtime API
 ---
 
