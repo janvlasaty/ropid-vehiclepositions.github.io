@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Převodník číselníku CIS zastávek na formát GTFS
-description: "Popis tabulek a jejich atributů."
+description: "Převodník číselníku CIS zastávek na formát GTFS."
 permalink: /docs/jizdni-rady/CIS-zastavky
+nav_order: 2
 parent: Jízdní řády
 ---
 
