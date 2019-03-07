@@ -8,5 +8,8 @@ parent: Realtime API
 
 # Přehled metod API
 
-Default label
-{: .label }
+GET {: .label }
+
+## /pid-gtfs/trips
+
+Získání spoje dle `trip_id`
