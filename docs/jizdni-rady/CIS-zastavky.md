@@ -3,7 +3,7 @@ layout: default
 title: Převodník číselníku CIS zastávek na formát GTFS
 description: "Popis tabulek a jejich atributů."
 permalink: /docs/jizdni-rady/CIS-zastavky
-parent: jizdni-rady
+parent: Jízdní řády
 ---
 
 ## Seznam zastávek PID (převzato z [webu PID](https://pid.cz/o-systemu/opendata/))
