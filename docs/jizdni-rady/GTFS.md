@@ -3,7 +3,7 @@ layout: default
 title: Popis formátu GTFS
 description: "Popis tabulek a jejich atributů."
 permalink: /docs/jizdni-rady/GTFS
-parent: jizdni-rady
+parent: Jízdní řády
 ---
 
 ## Jízdní řády ve formátu GTFS (převzato z [webu PID](https://pid.cz/o-systemu/opendata/))
