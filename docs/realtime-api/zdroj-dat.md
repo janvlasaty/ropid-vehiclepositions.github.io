@@ -2,7 +2,7 @@
 layout: default
 title: Zdroj dat
 permalink: /docs/realtime-api/zdroj-dat
-nav-order: 1
+nav_order: 1
 parent: Realtime API
 ---
 
