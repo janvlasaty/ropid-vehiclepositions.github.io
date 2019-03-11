@@ -63,7 +63,7 @@ L5D1,0000100-1,5_2_180511,“Vozovna Motol“,0,5_1_180511,L4V19,2,0,0,8
 
 `trip_operation_type` rozlišuje regulérní spoje (hodnota = 1) od výjezdů, zátahů a přejezdů s cestujícími mimo běžnou trasu linky (hodnota > 1). Spoje, které zatahují do vozovny na své trase, jsou vedeny jako regulérní. Spoje, které z trasy sjíždějí, jsou rozděleny na regulérní a neregulérní část, viz příklad výše. To se týká pouze tramvají, v ostatních trakcích jsou takové spoje neveřejné, protože cestující nepřepravují.
 
-```
+```javascript
 1 = regulérní spoj na trase
 7 = výjezd mimo pravidelnou trasu
 8 = zátah mimo pravidelnou trasu
